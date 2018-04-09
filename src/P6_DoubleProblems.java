@@ -1,7 +1,8 @@
+//PART 6-7 ALSO COMPLETELY STUCK??!!?!?!
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+ISYS 320
+	Name(s):Clayton Bruce
+	Date: 4/8/2018 
 */
 
 public class P6_DoubleProblems {
@@ -14,3 +15,8 @@ public class P6_DoubleProblems {
 	}
 
 }
+
+/*
+ * It isn't executing d
+ * 
+ * */
