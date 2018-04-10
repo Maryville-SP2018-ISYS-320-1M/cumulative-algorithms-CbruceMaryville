@@ -20,7 +20,7 @@ public class P6_DoubleProblems {
 
 /*
  * It isn't executing because: there is a roundoff error of about .000000001
- * By using absolute value and checking for a roundoff error we are able to verify the error and work
+ * By using absolute value and checking for a roundoff error via " < 0.1 "we are able to verify the error and work
  * around it and meet our condition!
  * 
  */
